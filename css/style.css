@@ -1,0 +1,17 @@
+body,ul,h1,h2,h3,h4,h5,h6{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background: url('../img/2.jpg');
+}
+div{
+    background:#900;
+    color: #fff;
+    width: 200px;
+    height:200px;
+}
+div a{
+    color: #fff;
+    text-decoration: none;
+}
